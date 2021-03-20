@@ -1,16 +1,6 @@
 # Finstagram
 
 
-
----
-
-### Table of Contents
-Sections headers will be used to reference location of destination.
-
-- [Project Details](#Project Details)
-- [How To Use](#how-to-use)
-
-
 ---
 
 ## Project Details
