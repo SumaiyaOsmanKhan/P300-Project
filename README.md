@@ -7,9 +7,9 @@
 ### Table of Contents
 Sections headers will be used to reference location of destination.
 
-- [Description](#description)
+- [Project Details](#Project Details)
 - [How To Use](#how-to-use)
-- [Author Info](#author-info)
+
 
 ---
 
